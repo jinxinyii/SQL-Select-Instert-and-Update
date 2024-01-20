@@ -1,0 +1,13 @@
+C:\Users\Elmar\source\repos\DB_Programming\bin\Debug\ClubDB.mdf
+C:\Users\Elmar\source\repos\DB_Programming\bin\Debug\ClubDB_log.ldf
+C:\Users\Elmar\source\repos\DB_Programming\bin\Debug\DB_Programming.exe.config
+C:\Users\Elmar\source\repos\DB_Programming\bin\Debug\DB_Programming.exe
+C:\Users\Elmar\source\repos\DB_Programming\bin\Debug\DB_Programming.pdb
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.csproj.AssemblyReference.cache
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.FrmClubRegistration.resources
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.FrmUpdateMember.resources
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.Properties.Resources.resources
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.csproj.GenerateResource.cache
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.csproj.CoreCompileInputs.cache
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.exe
+C:\Users\Elmar\source\repos\DB_Programming\obj\Debug\DB_Programming.pdb
